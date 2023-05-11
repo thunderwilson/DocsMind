@@ -40,7 +40,7 @@ export default function SideMenu({
           description={
             <>
               The upload is not available on the current website. You can
-              <a href="https://github.com/3Alan/DocsMind" target="__blank">
+              <a href="https://github.com/thunderwilson/DocsMind" target="__blank">
                 {' '}
                 fork and clone the project{' '}
               </a>
@@ -57,7 +57,7 @@ export default function SideMenu({
 
         <Space>
           <Button
-            href="https://github.com/3Alan/DocsMind"
+            href="https://github.com/thunderwilson/DocsMind"
             target="__blank"
             icon={<GithubOutlined />}
           ></Button>
