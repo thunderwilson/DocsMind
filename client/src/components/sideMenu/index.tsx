@@ -53,7 +53,7 @@ export default function SideMenu({
       )}
 
       <div className="mt-2 flex justify-between items-center">
-        <span className="text-xs text-gray-500">Made by Alan</span>
+        <span className="text-xs text-gray-500">Made by Tom</span>
 
         <Space>
           <Button
